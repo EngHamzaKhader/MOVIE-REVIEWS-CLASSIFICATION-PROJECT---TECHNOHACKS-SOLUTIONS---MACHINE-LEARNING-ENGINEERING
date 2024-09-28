@@ -1,2 +1,2 @@
-# TECHNOHACKS-SOLUTIONS---MACHINE-LEARNING-ENGINEERING---MOVIE-REVIEWS-CLASSIFICATION-PROJECT
+# MOVIE-REVIEWS-CLASSIFICATION-PROJECT---TECHNOHACKS-SOLUTIONS---MACHINE-LEARNING-ENGINEERING
 This Movie Reviews Classification Project utilizes natural language processing and machine learning to classify movie reviews as positive or negative. By preprocessing text data, applying TF-IDF vectorization, and training a Random Forest classifier, it achieves robust performance metrics, visualized through various plots and evaluation metrics.
